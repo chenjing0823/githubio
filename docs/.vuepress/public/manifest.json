@@ -1,0 +1,25 @@
+{
+  "name": "陈靖",
+  "short_name": "陈靖",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "陈靖的个人主页",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./logo.JPG",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web"
+    },
+    {
+      "platform": "play",
+      "url": "http://localhost:8082/"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ heroImage: /logo.JPG
 heroText: vuepress搭建博客
 tagline: 点击按钮 快速上手
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: /route-one/
 features:
 - title: 标题一
   details: 标题一小描述

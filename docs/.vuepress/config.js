@@ -46,7 +46,7 @@ module.exports = {
     nav:[ // 导航栏配置
       {text: '导航一', link: '/route-one/' },
       {text: '导航二', link: '/route-two/'},
-      {text: '外链', link: 'https://baidu.com'}      
+      {text: '简书地址', link: 'https://www.jianshu.com/u/35a394141c39'}      
     ],
     sidebarDepth: 2, // 侧边栏显示2级
     sidebar: {
